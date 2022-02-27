@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable word to the Parliament-men, to take with them when they go into the House: wherein is shewed, the first part of their present work, and what is expected from them, to satisfie their true and real friends. Likewise a vvatchword, how they prefer not again such persons to places of trust who have lately betrayed the priviledges of Parliaments, and the just rights of the people, into the hands of a single person. By John Canne.</title>
+            <author>Canne, John, d. 1667?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79845</idno>
+            <idno type="STC">Wing C442</idno>
+            <idno type="STC">Thomason E983_1</idno>
+            <idno type="STC">ESTC R207713</idno>
+            <idno type="EEBO-CITATION">99866750</idno>
+            <idno type="PROQUEST">99866750</idno>
+            <idno type="VID">168569</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79845)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168569)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable word to the Parliament-men, to take with them when they go into the House: wherein is shewed, the first part of their present work, and what is expected from them, to satisfie their true and real friends. Likewise a vvatchword, how they prefer not again such persons to places of trust who have lately betrayed the priviledges of Parliaments, and the just rights of the people, into the hands of a single person. By John Canne.</title>
+                  <author>Canne, John, d. 1667?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for L. Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 10th"; "May. 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168569:1" rendition="simple:additions"/>
+            <p>A SEASONABLE WORD To the Parliament-Men, To take with them when they go into the HOUSE: Wherein is ſhewed, The firſt part of their preſent Work, and what is expected from them, to ſatisfie their true and real Friends. Likewiſe A VVatchword, how they prefer not again ſuch Perſons to <hi>Places of Truſt</hi> who have lately Betrayed the <hi>Priviledges</hi> of <hi>Parliaments,</hi> and the <hi>Juſt Rights of the People,</hi> in<g ref="char:EOLhyphen"/>to the hands of a <hi>Single Perſon.</hi> By JOHN CANNE.</p>
+            <q>If thou doeſt well, ſhalt not thou be accepted? and if thou doest not well, ſin lieth at the door, <bibl>
+                  <hi>Gen. 4.7.</hi>
+               </bibl>
+            </q>
+            <q>To do justice and Judgment is more acceptable to the Lord then ſa<g ref="char:EOLhyphen"/>crifice,<bibl>
+                  <hi>Prov. 21.3.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J.C.</hi> for <hi>L. Chapman.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168569:2"/>
+            <pb n="1" facs="tcp:168569:2"/>
+            <head>A Seaſonable word for the Parliament-men to take with them when they go into the Houſe.</head>
+            <opener>
+               <salute>SIRS:</salute>
+            </opener>
+            <p>WHat hath God done? As your <hi>Sitting</hi> again is by a Wonderful hand of Providence; ſo doubtleſs, the effect (whatever it be) will ſpeak out to the Nation ſomething <hi>more then ordinary.</hi> Though I cannot ſay what it will be, yet with ſome confidence I dare ſay, the Lord by you, either intends to heal the great Breaches of this miſe<g ref="char:EOLhyphen"/>rable Nation, and thereby make your Memories bleſſed; or, to bring us yet lower, and make our Wounds greater and deeper, and that by you. However things fall out, I worſhip God with my Soul, that I have liv'd to ſee <hi>this late Revoluti<g ref="char:EOLhyphen"/>on,</hi> and that there is a door open to me, to ſpeak ſoberly and humbly once more to <hi>You:</hi> I ſay once more, for Truth and Righteouſneſs, and for the Intereſt of Chriſt and his People.</p>
+            <p>I need not tell you (for my mind gives me, You are very ſenſible of it) never were more eyes upon men then are now upon you; and Your <hi>Motions</hi> will be narrowly look'd into, both by friends and foes: you cannot halt nor turn to the right hand nor to the left, but one or other will ſpie it preſently. It was a good ſaying of <hi>David, Let integrity and uprightneſs preſerve me.</hi> Verily, (Sirs) it is honeſty, and doing juſt things that muſt keep you, for nothing elſe will do it: and the neglect of this, was the cauſe, why others lately were laid aſide, and no<g ref="char:EOLhyphen"/>thing remains of them (among the faithful of the Land) but
+<pb n="2" facs="tcp:168569:3"/>the <hi>infamous memory of their falſhood and hypocriſie.</hi> And no marvel, for they were like the Dogs ſet in <hi>Capitolio,</hi> to fray a<g ref="char:EOLhyphen"/>way theeves by night, who left the theeves, and fell to bark at true men walking by day. It is well known under the <hi>Last Government of a Single Perſon,</hi> very few, except <hi>Turncoats</hi> and <hi>Time-ſervers, (Virtutem qui verba putant, ut lucum ligna,</hi> as <hi>Horace</hi> ſpeaketh) Men of corrupt minds, <hi>who ſuppoſe that gain is godlineſs:</hi> I ſay, except ſuch as would make ſhipwrack <hi>of faith and a good Conſcience,</hi> few elſe had either countenance or ſafety. But that <hi>ſnare is broken, and we are eſcaped.</hi>
+            </p>
+            <p>To You therefore that are now ſitting at the <hi>Helm of this Commonwealth,</hi> I do deſire (without giving flattering Titles) to propound a few things.</p>
+            <p n="1">1. In the fear of God, give me leave to remind You, what were the <hi>Great</hi> and <hi>General Complaints</hi> of people againſt the <hi>Long Parliament.</hi> I ſhall not ingage as to the truth of the Reports, but only tell you what was commonly ſaid.</p>
+            <p n="1">1. That there was a preferring of unworthy men unto pla<g ref="char:EOLhyphen"/>ces of greateſt truſt and profit; Relations and other worldly reſpects ſwayed more then due qualifications: and hence grew up (a while after) ſuch a generation of men, as filled the Land with violence and oppreſſion; ſo that there was nothing but a great crie every where: yea, it is ſaid, ſince a <hi>Stop</hi> was put to that <hi>Parliament,</hi> none have been more active and for<g ref="char:EOLhyphen"/>ward to exerciſe an Arbitrary power over the good People of the Nation, then the perſons whom they preferr'd.</p>
+            <p n="2">2. The <hi>Report</hi> went, that ſome of that <hi>Parliament</hi> more endeavoured to inrich themſelves by <hi>Delinquents Eſtates,</hi> then to be any ways uſeful or ſerviceable for the publick good of the Nation. It was <hi>Iſaac</hi>'s queſtion to <hi>Jacob, How is it that thou haſt found it ſo quickly my ſon?</hi> If it be true, that in a few yeers ſome got a thouſand pound <hi>per annum,</hi> others fifteen hundred, ſome two thouſand, it was quickly gotten.</p>
+            <p n="3">3. Another <hi>General Complaint,</hi> was, their taking little heed to their Promiſes. As the Domeſtique ſervants of the late King were wont to ſay, <hi>They could not depend on his Promiſes, nor beleeve what he ſaid.</hi> I ſhall conclude nothing here; but certain it is, the Complaint was general, that they would
+<pb n="3" facs="tcp:168569:3"/>give their friends fair words and large promiſes, but never mind their Cauſe, though they were quite undone by it.</p>
+            <p>I ſhall not inlarge upon thoſe particulars; for my ſcope and purpoſe is not to diſcover any mans nakedneſs, but to prevent (what I can) future miſcarriages. Truly, my deſire and prayer to God is, that this <hi>Parliament</hi> may do <hi>worthily in E<g ref="char:EOLhyphen"/>phrata, and be famous in Bethlehem.</hi> Only let me tell You, if ſome men, who for betraying the juſt Rights of their Coun<g ref="char:EOLhyphen"/>try (had they their deſerts) ought to he puniſhed, ſhould they notwithſtanding be truſted again with the places and power they had, it will very much ſadden the hearts of your true friends, and they will have the leſs hope to ſee much good done by you.</p>
+            <p>
+               <hi>Sirs,</hi> As for good men, and ſuch as will faithfully ſerve you and their Country, it is below their Principles to be running after you for places; ſuch a practiſe ſutes not with their ſpi<g ref="char:EOLhyphen"/>rits, but with a ſort of ſervile mercenarie fellows, that will hire out themſelves to do any thing for their belly. And there<g ref="char:EOLhyphen"/>fore I do beſeech You, for Gods ſake, and for your Countries ſake, and for the <hi>Good Old Cauſe</hi> ſake, take heed how you do put ſuch perſons into places, who (betraying their truſt) ſought to betray the Commonwealth.</p>
+            <p>Secondly, As you are ſenſible of the grievances of the peo<g ref="char:EOLhyphen"/>ple, and will endeavour (I hope) to remove them, as you are able: So it is deſired and expected by the Godly, that you will be mindful of the great reproach which hath lay'n theſe 5 or ſix yeers upon the Name of God, and the holy profeſſion of the Goſpel. It will be little comfort to many of your friends, to ſee the Civil Rights and Liberties of the people reſtored, and nothing done to the vindication of Gods glory, which hath ſuffered ſo much through the <hi>Late Apostacie.</hi>
+            </p>
+            <p n="3">3. It will be now your wiſdome, ſeriouſly to heed what the Lord hath ſignally own'd, and wonderfully upheld in ſpite of all oppoſition; I ſay, what <hi>the Gates of Hell</hi> have been a<g ref="char:EOLhyphen"/>gainſt, but could not prevail. Again, on the other hand, ob<g ref="char:EOLhyphen"/>ſerve where his <hi>publike rebukes</hi> have been, and what that <hi>Pow<g ref="char:EOLhyphen"/>er</hi> and <hi>Policie</hi> is, which the Lord from Heaven hath <hi>curſed:</hi> and take heed you be not gathering where God is ſcattering, not
+<pb n="4" facs="tcp:168569:4"/>deſigning againſt <hi>THAT</hi> upon which he hath engraven, <hi>GRACE, GRACE.</hi> A word is enough to the wiſe.</p>
+            <p n="4">4. Whereas the <hi>Army</hi> of late hath declared for the <hi>Good Old Cauſe,</hi> &amp; many thouſands in and about this City and elſewhere, have ingaged by their <hi>Application to the General Council of the Officers of the Army,</hi> to ſtand with them in the proſecution thereof: I humbly offer to your conſideration, Seeing it hath pleaſed God to put you again into a capacity for the car<g ref="char:EOLhyphen"/>rying on of the Lords work, Whether it may not be neceſſary, that ſomething alſo be declared by you in reference to the ſaid <hi>Good Old Cauſe</hi> (if you really intend to carry it on) ſo that it may be known far and neer, what a happy accord there is between the <hi>Parliament, Army,</hi> and the <hi>Good people of the Nation,</hi> and how former diviſions and breaches are healed. But,</p>
+            <p n="5">5. Give me leave to tell you of the <hi>Spirit of God</hi> now raiſed higher in the hearts of his Saints, for the <hi>Intereſt of Chriſt and his People,</hi> then it was at your former ſitting. And it is ſuch a Spi<g ref="char:EOLhyphen"/>rit, <hi>that many waters cannot quench it, neither can the floods drown it;</hi> it is a <hi>Spirit</hi> that will not cloſe with any corrupt Intereſt, neither be ſilent if men take unrighteous courſes. <hi>O. P.</hi> knew this well enough: for though he gain'd upon other men, and turned the Nations upſide down, and <hi>brake Parliaments at his pleaſure,</hi> yet ſtill this Spirit got ground of him, and the more he wreſtled and ſtrove againſt it, the more it grew and proſpered.</p>
+            <p>True it is, You need not queſtion but to have <hi>Followers</hi> e<g ref="char:EOLhyphen"/>nough, what way ſoever you lead; there are <hi>Lawyers, Prieſts, Courtiers, Tryers, Office or place-Beggers,</hi> &amp;c. that are for a<g ref="char:EOLhyphen"/>ny change, like <hi>Gnato</hi> in <hi>Terence, Ais, aio; neges, nego: If you ſay it is thus, ſo do I; if you ſay nay, ſo do I. Mutor pro ratione temporis,</hi> as one ſaid; ſuch who the other day defied a Com<g ref="char:EOLhyphen"/>monwealth, and gave it under their hands, that they would fight againſt it, <hi>will now crouch to you for a morſel of bread.</hi> But there are people which fear God more then men, and will not <hi>be partakers of other mens ſins;</hi> theſe were they, who in the ſtrength of the Lord, <hi>held forth a publike Teſtimony against the Apoſtacie, and kept alive the Good Old Cauſe;</hi> yea, let me tell you, <hi>You had not ſate where you now do, if the Spirit of God in theſe men had not ſhaken</hi> the very foundation of <hi>the laſt Govern<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <pb n="5" facs="tcp:168569:4"/>
+            <p n="6">6. I ſhould not be faithful, either to God, or to you, or to my own Soul, if I did not call upon you, to give Jeſus Chriſt his <hi>RIGHTS.</hi> Indeed, this ſhould be more minded of you then the <hi>Civil Rights of the People: God hath made him both Lord and Christ;</hi> not only <hi>King of Saints,</hi> but <hi>King of Nations;</hi> and <hi>all the Kingdoms of the world ſhall be his,</hi> and he the <hi>ONELY POTENTATE.</hi> It is true, this <hi>Stone</hi> hitherto the <hi>Maſter<g ref="char:EOLhyphen"/>builders have rejected,</hi> and hence God hath deſtroyed the work of their hands one after another. How far you are enlightned concerning <hi>the viſible and glorious Kingdome of Jeſus Chriſt,</hi> I know not; but this is certain, if you honour him, he will honour you; and if you make it your work to prepare <hi>the way for him,</hi> he will protect you againſt all men, and make you a bleſſing to the Nation.</p>
+            <p>The <hi>Army</hi> before their declenſion eminently declared for Jeſus Chriſt, and <hi>THIS THEN</hi> was the chief part of the <hi>Good Old Cauſe,</hi> viz. <hi>NO KING BUT JES<g ref="char:V">Ʋ</g>S;</hi> his King<g ref="char:EOLhyphen"/>dome, Laws, People, <hi>&amp;c.</hi> was <hi>THEN</hi> the <hi>Good Old Cauſe,</hi> and they thought themſelves to be the <hi>Army of the Lamb, his ſanctified ones,</hi> and the Lords mighty Hoſt to pour out venge<g ref="char:EOLhyphen"/>ance upon <hi>Babylon;</hi> they have promiſed once more before God, Angels, and men, to maintain the <hi>Good Old Cauſe,</hi> and they have told us what they mean by it, namely, <hi>No King but Jeſus.</hi> Now let them take heed, for God will not be mocked, and it is a fearful thing to fall into his hands.</p>
+            <p n="7">7. I might likewiſe remind you of the breaking the <hi>Long Parliament:</hi> I confeſs as things have appeared ſince, we have cauſe to think, he who did it, ſought only himſelf, and not <hi>Gods</hi> glory, nor the <hi>Publike intereſt of the People.</hi> Nevertheleſs, looking beyond men, we ſhall ſee a righteous God who loveth righteouſneſs; and doubtleſs, the only wiſe God would not have had it ſo, but for ſome good end. And why (among o<g ref="char:EOLhyphen"/>ther ends) may not this be one; namely, by ſuch a way and means, to purge out your droſs and tin, and to make you the more meet for the maſters uſe?</p>
+            <p>I have but one word more, &amp; it is to tell you what God is now doing in the Aſſemblies and great Councils of men; namely, more viſibly curſing the craft of ſubtle men, and more ſenſibly
+<pb n="6" facs="tcp:168569:5"/>bleſſing plain and honeſt dealing then formerly. So that this I dare ſay (and could wiſh it were written on the walls of Your Houſe) <hi>Polititians by their cunning tricks, and brain-working, ſome yeers paſt, might have expected to ſpeed better, and their deep deſigns to ſtand longer, then they will do now.</hi> For as the Lord is now bringing in Truth and Righteouſneſs to the Nations, ſo the ſincere and upright doings of <hi>plain Jacobs</hi> and <hi>Nathaniels</hi> ſhall ſtand, whilſt the deep workings of <hi>Achitophels</hi> and <hi>Machiavels</hi> ſhall fall, as <hi>Dagon</hi> did before the Ark.</p>
+            <epigraph>
+               <q>Behold, thou art made whole: ſin no more, lest a worſe thing come unto thee, <bibl>
+                     <hi>Joh. 5.14.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
